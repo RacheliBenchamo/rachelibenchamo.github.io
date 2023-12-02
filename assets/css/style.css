@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #252B8C;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #252B8C;
   background-color: white;
 }
 /* main body */
@@ -136,7 +136,7 @@ body {
 /* main a -- links */
 
 /* a {
-  color: #009688;
+  color: #252B8C;
 } */
 
 a {
@@ -147,7 +147,7 @@ a {
 
 /* blockquote {
   border-left: 5px solid #795548;
-  color: #795548;
+  color: #FFF3E2;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -156,7 +156,7 @@ a {
 
 blockquote {
   border-left: 5px solid #795548;
-  color: #795548;
+  color: #FFF3E2;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -553,7 +553,7 @@ small {
 }
 
 /* .teal-text {
-  color: #0b5e86 !important;
+  color: #252B8C !important;
 } */
 
 /* .teal */
