@@ -97,7 +97,7 @@
 
 /* .readme:hover{
   color: white;
-  background-color: #FFF6C7;
+  background-color: #FFF3E2;
 } */
 
 .contactme {
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #FFF6C7 repeat;
+  background: #FFF3E2 repeat;
   position: relative;
 }
 
@@ -563,7 +563,7 @@ small {
 }
 
 /* .teal {
-  background-color: #FFF6C7 !important;
+  background-color: #FFF3E2 !important;
 } */
 
 @media (min-width: 1200px) {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #FFF6C7;
+    color: #FFF3E2;
     height: 56px;
     line-height: 56px;
   }
